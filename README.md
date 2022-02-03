@@ -20,7 +20,8 @@ The analysis will determine the number of retiring employees per job title, and 
 -------------------------------
 
 # Project Results
--- Analysis Output: 
+
+Analysis Output: 
 
 1. SQL code for multiple queries, as employee_database_challenge.sql file 
 2. Four .csv tables (retirement_titles, unique_titles, retiring_titles, mentorship_eligibility) with query results
